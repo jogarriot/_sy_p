@@ -1,4 +1,4 @@
-# Vibes Preinstalled Marketplace
+# Vibes Preinstalled Marketplacesssss
 
 Pre-installed MCP-based plugins that ship with Vibespace workspaces.
 
