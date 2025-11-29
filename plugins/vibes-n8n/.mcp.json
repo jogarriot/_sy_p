@@ -1,0 +1,10 @@
+{
+  "vibes-n8n": {
+    "command": "/app/mcp-servers/vibes-n8n",
+    "args": [],
+    "env": {
+      "WORKSPACE_PATH": "${CLAUDE_PROJECT_DIR}"
+    }
+  }
+}
+
