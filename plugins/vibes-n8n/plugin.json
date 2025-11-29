@@ -1,0 +1,10 @@
+{
+  "name": "vibes-n8n",
+  "version": "1.0.0",
+  "description": "n8n workflow management tools - list, get, sync, and push workflows with AI assistance",
+  "author": {
+    "name": "Vibespace",
+    "email": "support@vibespace.io"
+  }
+}
+
