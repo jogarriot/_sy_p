@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "vibes-n8n",
-      "description": "n8n workflow management tools - list, get, sync, and push workflows with AI assistance",
+      "description": "xxx n8n workflow management tools - list, get, sync, and push workflows with AI assistance",
       "version": "1.0.0",
       "author": {
         "name": "Vibespace",
