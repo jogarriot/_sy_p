@@ -1,0 +1,10 @@
+{
+  "tool": {
+    "command": "/app/mcp-servers/workspace-mcp",
+    "args": [],
+    "env": {
+      "WORKSPACE_PATH": "${CLAUDE_PROJECT_DIR}"
+    }
+  }
+}
+
