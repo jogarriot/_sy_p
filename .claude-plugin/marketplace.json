@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vibes-marketplace",
+  "version": "1.0.0",
+  "description": "Pre-installed MCP-based plugins that ship with Vibespace",
+  "owner": {
+    "name": "Vibespace",
+    "email": "support@vibespace.io"
+  },
+  "plugins": [
+    {
+      "name": "workspace",
+      "description": "Workspace management tools - projects, integrations, mini apps, and n8n workflows",
+      "version": "1.0.0",
+      "author": {
+        "name": "Vibespace",
+        "email": "support@vibespace.io"
+      },
+      "source": "./plugins/workspace",
+      "category": "automation"
+    }
+  ]
+}
