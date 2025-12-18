@@ -1,13 +1,13 @@
-# Vibes System Plugins
+# Complementos del Sistema Vibes
 
-Pre-installed plugins that ship with Vibespace workspaces.
+Complementos preinstalados que se incluyen con los espacios de trabajo de Vibespace.
 
-## Plugins
+## Complementos
 
 ### workspace
 
-Workspace management plugin for Vibespace - manages projects, integrations, and mini apps.
+Complemento de gestión de espacios de trabajo para Vibespace - gestiona proyectos, integraciones y mini aplicaciones.
 
-## Installation
+## Instalación
 
-These plugins are automatically installed in Vibespace workspaces during setup.
+Estos complementos se instalan automáticamente en los espacios de trabajo de Vibespace durante la configuración.
